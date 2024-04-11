@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+}
+
+a {
+  color: red;
+}
+
+.lione {
+  color: green;
+  text-decoration: overline;
+}
+
+#text1 {
+  border: 5px solid grey;
+}
+
+h1 {
+  border: 2px solid black;
+}
+
+h2 {
+  color: purple;
+}
+
+#email {
+  border-color: red;
+}
+
+#pass {
+  border-color: red;
+}
+
+.submit {
+  border-color: red;
+}
+
+.feedback {
+  border: 5px dotted yellow;
+  background-color: blue;
+}
+
+#btparagraph {
+  background-color: yellow;
+}
+
+.tpparagraph {
+  background-color: yellow;
+}
